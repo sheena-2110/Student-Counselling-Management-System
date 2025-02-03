@@ -56,7 +56,7 @@ StudentCounsellingSystem/
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/StudentCounsellingSystem.git
+   https://github.com/sheena-2110/Student-Counselling-Management-System.git
    ```
 2. Open the project in an IDE (IntelliJ/Eclipse).
 3. Install MySQL and create a database:
@@ -125,7 +125,4 @@ Table: **selections**
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 
----
 
-## License
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
